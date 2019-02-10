@@ -44,7 +44,7 @@ ul li a:hover{
   background-color: white;
   color:black;
 }
-/* .info{
+.info{
   text-align: center;
   position: absolute;
   margin-top: 18%;
@@ -67,7 +67,7 @@ ul li a:hover{
   border-bottom-style: double;
   color: #E1E0D8;
   transition: 1s ease;
-}  */
+} 
 /* #about{
   margin-top:4em;
 }
