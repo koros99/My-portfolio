@@ -3,19 +3,12 @@
     font-size: 15px;
   }
 }
-/* .header{
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7WIpqp5iz0VaDIbj0YZxDCPtqPjLr2DC3VJaP21-GGV6JYEAO8g");
-  height: 20em;
-  background-size: cover;
-  background-position: center;
-  color: white;
-} */
 body{
   background-image: url("https://coolbackgrounds.io/images/backgrounds/index/aqua-d9b59c89.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
-#title{
+/* #title{
   float:left;
   font-family: 'Teko', sans-serif;
   padding: 0.3em 0.5em;
@@ -42,13 +35,13 @@ ul li a{
   font-size: 20px;
   color: white;
   padding: 10px;
-  /* padding-left: 10px;
-  padding-right: 10px; */
-  /* border: 2px solid white; */
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 2px solid white;
   text-transform: uppercase;
 }
 ul li a:hover{
-  /* background-color: white; */
+  background-color: white;
   color:black;
 }
 .info{
@@ -74,7 +67,7 @@ ul li a:hover{
   border-bottom-style: double;
   color: #E1E0D8;
   transition: 1s ease;
-}
+}  */
 /* #about{
   margin-top:4em;
 }
@@ -87,4 +80,4 @@ ul li a:hover{
 }
 #interests{
   float:right;
-} */
+}
