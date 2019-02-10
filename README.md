@@ -1,22 +1,22 @@
 # VICTOR KILEL'S PORTFOLIO
-### My Portfolio
+# My Portfolio
 
-## Description
+# Description
 This portfolio contains my information about my projects so far, and also details about my background and interests.
 
 ## Setup
-On your browser, open github and search koros99.github.io/
-Fork the repository.
-The website for this portfolio is https://koros99/github.io/koros99
+* On your browser, open github and search koros99.github.io/
+* Fork the repository.
+* The website for this portfolio is https://koros99/github.io/koros99
 
-## Bugs
+# Bugs
 No known Bugs
 
-## Languages Used
+# Languages Used
 HTML for page structure and CSS for styling.
 
-## Contacts
+# Contacts
 Email: vickiekross99@gmail.com
 
-## License
+# License
 MIT Copyright (c) 2019 Victor Kilel
