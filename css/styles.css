@@ -11,9 +11,22 @@
   color: white;
 } */
 body{
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7WIpqp5iz0VaDIbj0YZxDCPtqPjLr2DC3VJaP21-GGV6JYEAO8g");
+  background-image: url("https://coolbackgrounds.io/images/backgrounds/index/aqua-d9b59c89.png");
   background-size: cover;
   background-repeat: no-repeat;
+}
+#title{
+  float:left;
+  font-family: 'Teko', sans-serif;
+  padding: 0.3em 0.5em;
+  background-color: rgba(192, 228, 241, 0.5);
+}
+#title a{
+  text-decoration: none;
+  color: white;
+}
+#title a:hover{
+  color: gray
 }
 #nav ul{
   float:right;
@@ -31,14 +44,38 @@ ul li a{
   padding: 10px;
   /* padding-left: 10px;
   padding-right: 10px; */
-  border: 2px solid white;
+  /* border: 2px solid white; */
   text-transform: uppercase;
 }
 ul li a:hover{
-  background-color: white;
+  /* background-color: white; */
   color:black;
 }
-#about{
+.info{
+  text-align: center;
+  position: absolute;
+  margin-top: 18%;
+  left: 45%;
+}
+.info h1{
+  font-family: 'Teko', sans-serif;
+  font-size: 2.3em;
+}
+.info h3{
+  font-family: 'Righteous', cursive;
+}
+.info a{
+  text-decoration: none;
+  color:black;
+}
+.info a:hover{
+  padding: 0.2em 0.7em;
+  border: 0.05em white;
+  border-bottom-style: double;
+  color: #E1E0D8;
+  transition: 1s ease;
+}
+/* #about{
   margin-top:4em;
 }
 #background{
@@ -50,4 +87,4 @@ ul li a:hover{
 }
 #interests{
   float:right;
-}
+} */
