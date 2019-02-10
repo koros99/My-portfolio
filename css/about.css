@@ -35,7 +35,7 @@ ul li a{
 ul li a:hover{
   color:black;
 }
-.about{
+/* .about{
   clear:both;
   text-align: center;
   font-size: 2em;
@@ -43,9 +43,9 @@ ul li a:hover{
 /* .about h2{
   font-size: 1.5em;
 } */
-.about ul{
-  list-style-type: none;
+/* .about ul{
+  list-style-type: ;
 }
 img{
   width: 15em;
-}
+} */ */
