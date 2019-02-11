@@ -1,0 +1,64 @@
+
+body{
+  background-image: url("https://coolbackgrounds.io/images/backgrounds/index/aqua-d9b59c89.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#title{
+  float:left;
+  font-family: 'Teko', sans-serif;
+  padding: 0.3em 0.5em;
+  background-color: rgba(192, 228, 241, 0.5);
+}
+#title a{
+  text-decoration: none;
+  color: white;
+}
+#title a:hover{
+  color: gray
+}
+#nav ul{
+  float:right;
+  list-style-type: none;
+  margin-right: 20px;
+}
+#nav ul li{
+  display: inline-block;
+}
+ul li a{
+  text-decoration: none;
+  font-family: Century Gothic;
+  font-size: 20px;
+  color: white;
+  padding: 10px;
+  text-transform: uppercase;
+}
+ul li a:hover{
+  color:black;
+}
+.info{
+  clear: both;
+  background-color: lightgray;
+  text-align: center;
+  width: 50%;
+  margin-left: 25%;
+  font-family: 'Teko', sans-serif;
+  font-size: 2em;
+}
+.contacts{
+  padding: 0.5em 2em;
+  background-color: lightgray;
+  width: 45.5%;
+  margin-left: 25%;
+}
+strong{
+  text-decoration: underline;
+}
+img {
+  width:5em;
+  display: inline-block;
+  padding: 1em 0.5em;
+}
+#one{
+  margin-left: 10em;
+}
